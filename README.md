@@ -2,10 +2,16 @@
 
 T/Oな機能しかないです。
 
+## version
+
+- Python 3.9.1 +
+
 ## 準備
 
 Chrome Driverを使います。  
 お使いのChromeのバージョンに合わせたChrome Driverを[こちらからダウンロード](https://sites.google.com/chromium.org/driver/home)してください。
+
+また、venvで仮想環境を作成し、pipを使用してrequirements.txtの内容をインストールしてください。
 
 ## 使用方法
 
